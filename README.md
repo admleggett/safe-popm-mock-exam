@@ -1,4 +1,4 @@
-# POPM Exam CLI Application
+# POPMock Exam CLI Application
 
 <p align="center">
   <pre>
@@ -14,7 +14,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-21-blue)](https://openjdk.java.net/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.4-brightgreen)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen)](https://spring.io/projects/spring-boot)
 
 A command-line application for practicing Scaled Agile Framework® (SAFe) Product Owner / Product Manager (POPM) certification questions with AI-powered question generation.
 
@@ -30,15 +30,15 @@ A command-line application for practicing Scaled Agile Framework® (SAFe) Produc
 
 ## Prerequisites
 
-- Java 17 or higher
-- Maven
+- Java 21 or higher
+- Maven 3.9.x
 - Anthropic API key (for Claude AI access)
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/safe-popm-exam.git
+git clone <url>
 cd safe-popm-exam
 ```
 
