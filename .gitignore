@@ -39,4 +39,9 @@ logs/
 ### cmd history, tmp files, etc ###
 *-history
 
+### Python ###
+*.pyc
+venv/
+**/__pycache__/
+
 
